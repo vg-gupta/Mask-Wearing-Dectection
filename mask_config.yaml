@@ -1,0 +1,13 @@
+# Dataset root directory (use absolute path)
+path: C://Users//vikra//OneDrive//Desktop//Deep Learning Lab//lab-3//online//datasets//mask
+
+# Train, validation, and test image directories (relative to 'path')
+train: C://Users//vikra//OneDrive//Desktop//Deep Learning Lab//lab-3//online//datasets//mask//train//images
+val: C://Users//vikra//OneDrive//Desktop//Deep Learning Lab//lab-3//online//datasets//mask//valid//images
+test:  # Optional: Add test path if available
+
+# Number of classes
+nc: 3
+
+# Class names
+names: ['with_mask', 'without_mask', 'mask_weared_incorrect']
