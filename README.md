@@ -39,6 +39,7 @@ This project implements an **end-to-end Deep Learning pipeline** for **training,
 ![val_batch0_pred](https://github.com/user-attachments/assets/ec1210a6-a014-4e50-a95a-df29faf757eb)
 ![val_batch1_pred](https://github.com/user-attachments/assets/f23f874c-041a-4e23-9ef8-e04d725033ea)
 
+## **ALL Results are in the Summary file. **
 
 
 ## 🔮 **Future Enhancements**  
